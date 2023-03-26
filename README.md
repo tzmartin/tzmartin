@@ -8,7 +8,7 @@
 
 <div id="header" align="center">
   <h1>Hi 👋, I'm tz 🏴‍☠️</h1>
-  <img src="https://raw.githubusercontent.com/tzmartin/tzmartin/master/starfield-stats.svg" width="100%" height="300">
+  <img src="https://raw.githubusercontent.com/tzmartin/tzmartin/master/starfield-stats.svg" width="100%" height="200">
   <p>
     <img src="https://komarev.com/ghpvc/?username=tzmartin&label=Profile%20views&color=grey&style=flat"></img>
     <img src="https://img.shields.io/github/followers/tzmartin?label=Followers&color=grey&style=flat"></img>
